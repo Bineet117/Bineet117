@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bineet Kumar Gupta</h1>
+<h1 align="center">Hi  ![wave](https://github.com/user-attachments/assets/f9c47a26-84a5-4a2a-9766-7862fd731937), 
+I'm Bineet Kumar Gupta</h1>
 <h3 align="center">An aspiring Data Scientist</h3>
 
 - 🌱 I’m currently learning **Generative AI**
