@@ -1,4 +1,4 @@
-<h1 align="center">Hi  ![wave](https://github.com/user-attachments/assets/f9c47a26-84a5-4a2a-9766-7862fd731937), 
+<h1 align="center">Hi  <img src="https://github.com/user-attachments/assets/f9c47a26-84a5-4a2a-9766-7862fd731937">, 
 I'm Bineet Kumar Gupta</h1>
 <h3 align="center">An aspiring Data Scientist</h3>
 
